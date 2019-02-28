@@ -155,7 +155,8 @@ export const SPECIAL_CURRENCY_INFO: SpecialCurrencyInfo = {
     isImportKeySupported: true
   },
   DAI: {
-    displayBuyCrypto: true
+    displayBuyCrypto: true,
+    isImportKeySupported: true
   },
   HERC: {
     displayBuyCrypto: true,
